@@ -1,0 +1,6 @@
+apt update
+pkg install
+pkg python 
+https://github.com/Sattar32/mirsattar.git
+ls
+cd mirsattar
